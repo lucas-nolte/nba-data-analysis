@@ -1,0 +1,11 @@
+team,player,points,assists,rebounds
+Lakers,LeBron,28,8,7
+Warriors,Curry,30,6,5
+Bucks,Giannis,32,5,11
+Celtics,Tatum,27,4,8
+Suns,Booker,26,5,4
+Lakers,Davis,24,3,10
+Warriors,Thompson,22,2,3
+Bucks,Middleton,20,4,6
+Celtics,Brown,25,3,5
+Suns,Durant,29,6,7
