@@ -1,10 +1,10 @@
 # nba-data-analysis
 
-NBA Player & Team Performance Analysis
+# NBA Player & Team Performance Analysis
 
 This project uses Python, pandas and matplotlib to analyze NBA player and team statistics from a CSV dataset. The analysis explores scoring trends, team performance, player rankings, and league-wide comparisons through data aggregation and visualization. 
 
-Features
+## Features
 - Load and inspect NBA player data using pandas
 - Calculate league-wide scoring averages
 - Identify top scorers
@@ -14,12 +14,12 @@ Features
 - Visualize team scoring trends with matplotlib
 - Practice exploratory data analysis workflows
 
-Technologies used
+## Technologies used
 - Python
 - pandas
 - matplotlib
 - Jupyter Notebook
 
-Visualization Example
+## Visualization Example
 This project includes a horizontal bar chart comparing average points scored per team.
 
